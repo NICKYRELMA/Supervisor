@@ -1,0 +1,26 @@
+{
+  "username": "Office-supervisor",
+  "avatar_url": "https://i.imgur.com/4M34hi2.png",
+  "content": "Make sure to finish up all ypur work.",
+  "embeds": [
+    {
+      "author": {
+        "name": "supervisor",
+        "url": "https://www.reddit.com/r/cats/",
+        "icon_url": "https://i.imgur.com/R66g1Pe.jpg   },
+          "name": "work-load",
+          "value": "Content Boys!!",
+          "inline": true  ],
+      "thumbnail": {
+        "url": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj_mP_jj87hAhWug-AKHYcEDCAQjhx6BAgBEAM&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F278444%2Fred_youtube_youtube_youtube_logo_youtube_logo_red_youtube_logo_text_icon&psig=AOvVaw3hYv5GpoJteRkOzWMQXdiT&ust=1555281106557423"
+      },
+      "image": {
+        "url": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj_mP_jj87hAhWug-AKHYcEDCAQjhx6BAgBEAM&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F278444%2Fred_youtube_youtube_youtube_logo_youtube_logo_red_youtube_logo_text_icon&psig=AOvVaw3hYv5GpoJteRkOzWMQXdiT&ust=1555281106557423"
+      },
+      "footer": {
+        "text": "Woah! So cool! :smirk:",
+        "icon_url": "https://i.imgur.com/fKL31aD.jpg"
+      }
+    }
+  ]
+}
